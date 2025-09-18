@@ -71,3 +71,10 @@ layout: default
 4.  重启手机或开关飞行模式试试。
 
 　　**频段兼容性：** 圣卢西亚主要用4G LTE，频段集中在 **Band 4 (1700/210
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Lucia SIM 卡购买与激活指南](https://faciylike.github.io/saint-lucia-sim-guides)
